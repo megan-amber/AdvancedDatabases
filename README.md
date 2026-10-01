@@ -5,3 +5,4 @@ SDC435 - megger5968
 - Week 2 - CRUD Operations on a MongoDB database
 - Week 3 - CRUD Operations on a Cassandra database
 - Week 4 - Upload the dataset into a Neo4j database as nodes with relationships and perform CRUD operations on the provided dataset
+- Week 5 - Perform CRUD operations on a SQLite relational database
